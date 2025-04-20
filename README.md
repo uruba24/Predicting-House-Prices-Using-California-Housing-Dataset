@@ -105,6 +105,6 @@ These give insights into which features most influence house price predictions.
 Feel free to reach out if you have questions or suggestions!
 
 📮 **Your Name**  
-🔗 [GitHub](https://github.com/your-username) | 📬 your.email@example.com
+🔗 [GitHub]([https://github.com/your-username](https://github.com/uruba24)) | 📬 urubaftb@gmail.com
 
 ---
